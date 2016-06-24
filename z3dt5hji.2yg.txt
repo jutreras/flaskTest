@@ -1,0 +1,71 @@
+﻿
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# Committer: Jorge Utreras <Jorge.Utreras@sqm.com>
+#
+# On branch master
+# Your branch is up-to-date with 'origin/master'.
+#
+# Changes to be committed:
+#	deleted:    app/__init__.pyc
+#	modified:   app/__pycache__/__init__.cpython-34.pyc
+#	deleted:    app/__pycache__/views.cpython-34.pyc
+#
+# Untracked files:
+#	flask/Include/
+#	flask/Scripts/
+#	flask/lib/__future__.py
+#	flask/lib/_bootlocale.py
+#	flask/lib/_collections_abc.py
+#	flask/lib/_dummy_thread.py
+#	flask/lib/_weakrefset.py
+#	flask/lib/abc.py
+#	flask/lib/base64.py
+#	flask/lib/bisect.py
+#	flask/lib/codecs.py
+#	flask/lib/collections/
+#	flask/lib/copy.py
+#	flask/lib/copyreg.py
+#	flask/lib/distutils/
+#	flask/lib/encodings/
+#	flask/lib/fnmatch.py
+#	flask/lib/functools.py
+#	flask/lib/genericpath.py
+#	flask/lib/hashlib.py
+#	flask/lib/heapq.py
+#	flask/lib/hmac.py
+#	flask/lib/imp.py
+#	flask/lib/importlib/
+#	flask/lib/io.py
+#	flask/lib/keyword.py
+#	flask/lib/linecache.py
+#	flask/lib/locale.py
+#	flask/lib/no-global-site-packages.txt
+#	flask/lib/ntpath.py
+#	flask/lib/operator.py
+#	flask/lib/orig-prefix.txt
+#	flask/lib/os.py
+#	flask/lib/posixpath.py
+#	flask/lib/random.py
+#	flask/lib/re.py
+#	flask/lib/reprlib.py
+#	flask/lib/rlcompleter.py
+#	flask/lib/shutil.py
+#	flask/lib/site-packages/
+#	flask/lib/site.py
+#	flask/lib/sre_compile.py
+#	flask/lib/sre_constants.py
+#	flask/lib/sre_parse.py
+#	flask/lib/stat.py
+#	flask/lib/struct.py
+#	flask/lib/tarfile.py
+#	flask/lib/tempfile.py
+#	flask/lib/token.py
+#	flask/lib/tokenize.py
+#	flask/lib/types.py
+#	flask/lib/warnings.py
+#	flask/lib/weakref.py
+#	flask/tcl/
+#
+
